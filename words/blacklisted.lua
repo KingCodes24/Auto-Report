@@ -186,5 +186,19 @@ return {
 	youtube = {
 		"Offsite Links",
 		"he offsite links"
-	},
+        },  gvay = {
+                  "Bullying"
+                  "saying bad things about other people, bullying them"
+         
+        }, essex = { 
+                   "Dating"
+                   "talking about having dating in-game."
+          
+	}, StickyWetCum = {
+                          "Dating" 
+		          "Talking about sperm"
+ 
+         
+			
+	}, 
 };
